@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mattson-k
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning ...java, JavaScript,html, python 
+- 🌱 I’m currently learning ...java, 
 - 📫 How to reach me ... kigonyatimothy@gmail.com
 
 <!---
